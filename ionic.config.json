@@ -1,0 +1,7 @@
+{
+  "name": "aplicacionSuper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
