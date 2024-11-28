@@ -25,3 +25,18 @@
 #container a {
   text-decoration: none;
 }
+
+.centrar-botones{
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.boton-uniforme {
+  width: 80%; /* Ajusta el ancho a tu diseño */
+  height: 50px; /* Asegura el mismo alto */
+  text-align: center; /* Centra el texto dentro del botón */
+}
